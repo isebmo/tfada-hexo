@@ -1,0 +1,7 @@
+
+menu:
+  Home: /
+  Archives: /archives
+
+favicon: /favicon/favicon.png
+rss: /atom.xml
