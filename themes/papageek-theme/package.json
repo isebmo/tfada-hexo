@@ -1,7 +1,7 @@
 {
-  "name": "hexo-theme-mouret",
+  "name": "hexo-theme-papageek-top",
   "version": "1.0.0",
-  "description": "theme for mouret.pro blog",
+  "description": "theme for papageek.top blog",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
