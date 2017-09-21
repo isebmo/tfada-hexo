@@ -1,17 +1,4 @@
 body {
-    box-sizing: border-box;
-    font-family: 'Palatino Linotype', serif;
-    font-size: 1.2rem;
-    position: relative; // height: 100%;
-    p {
-        line-height: 1.9rem;
-    }
-    section {
-        padding: 1rem 1rem 12rem 1rem;
-        margin: 0rem auto;
-        width: calc(100% - 2rem);
-        max-width: 600px;
-    }
     blockquote {
         font-family: Georgia, serif;
         font-size: 18px;

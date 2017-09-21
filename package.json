@@ -7,7 +7,8 @@
   },
   "scripts": {
     "build": "gulp --gulpfile  themes/papageek-theme/gulpfile.js && hexo generate",
-    "start": "concurrently \"gulp watch --gulpfile  themes/papageek-theme/gulpfile.js\" \"hexo server\""
+    "start": "concurrently \"gulp watch --gulpfile  themes/papageek-theme/gulpfile.js\" \"hexo server\"",
+    "test": "npm version"
   },
   "dependencies": {
     "hexo": "^3.2.0",

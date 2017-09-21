@@ -51,8 +51,8 @@ gulp.task('compileSass', function () {
         .pipe(minifycss({
             keepSpecialComments: 0
         }))
-        .pipe(rename('styles.ejs'))
-        .pipe(gulp.dest('layout/_partial/'));
+        .pipe(rename('styles.css'))
+        .pipe(gulp.dest('source/css'));
 });
 gulp.task('css', function () {
     runsequence(
