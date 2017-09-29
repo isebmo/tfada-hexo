@@ -1,20 +1,30 @@
-<section class="blog-post">
-    <!-- Title -->
-    <h1 class="blog-post-title">
-        <a href="<%- config.root %><%- item.path %>">
-            <%- item.title || item.link%>
-        </a>
-    </h1>
-    <!-- Date and Author -->
-    <p class="blog-post-meta">
-        <%= item.date.format(config.date_format) %>
-        <% if(item.author) { %>
-        by <%- item.author %>
-        <% } %>
-    </p>
-    <!-- Content -->
-    <%- item.content %>
-    <!-- Tags and Categories links -->
-    <%- partial('article-tags', {item: item}) %>
-    <%- partial('article-categories', {item: item}) %>
+<section class="blog-post max-width">
+    <% if (item.fimg) { %>
+        <img src="<%= item.fimg %>" alt="image à la une">
+    <% } %>
+    <header>
+        
+        <!-- Title -->
+        <h1 class="blog-post-title">
+            <a href="<%- config.root %><%- item.path %>">
+                <%- item.title || item.link%></a>
+        </h1>
+        <!-- Date and Author -->
+        <p class="blog-post-meta">
+            le <%= item.date.locale('fr').format(config.date_format) %>
+            <% if(item.author) { %>
+                par <%- item.author %>
+            <% } %>
+        </p>
+    </header>
+    <article>
+        <!-- Content -->
+        <%- item.content %>
+    </article>
+    <footer>
+        <!-- Tags and Categories links -->
+        <%- partial('article-tags', {item: item}) %>
+        <%- partial('article-categories', {item: item}) %>
+
+    </footer>
 </section>

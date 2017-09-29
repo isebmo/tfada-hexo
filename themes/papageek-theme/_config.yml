@@ -5,3 +5,6 @@ menu:
 
 favicon: /favicon/favicon.png
 rss: /atom.xml
+logo: 
+  url: /papageek-logo.png
+  alt: PapaGeek

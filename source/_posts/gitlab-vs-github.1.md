@@ -1,6 +1,7 @@
 ---
 title: Gitlab vs Github
 date: 2017-08-01 15-27-02
+fimg: http://papageek.s3-eu-central-1.amazonaws.com/Photo-2017-08-02-21-46.jpg
 ---
 Pour ceux qui ne connaissent pas GIT est un système de gestion de version décentralisé. Il a été créé par l'inventeur du noyau de Linux : Linus Tolvards. Si vous n'utilisez pas encore GIT et que vous êtes encore sur SVN voir pire CVS je ne peux que vous recommander de basculer au plus vite. Les avantages de GIT sur SVN fera l'objet d'un post à part entière.
 

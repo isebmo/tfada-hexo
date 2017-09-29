@@ -1,33 +1,29 @@
 #main-nav {
-  a {
-    text-decoration: none;
-  }
+  display: flex;
+  padding: 0 1rem;
   img {
     vertical-align: bottom;
   }
-  h1 {
-    margin: 0;
-    display: inline;
-  }
   ul {
+    width: 100%;
     margin: 0;
     display: flex;
-    justify-content: space-around;
+    justify-content: flex-end;
     flex-wrap: wrap;
-    background-color: #1e1e24;
-    padding: 0.8rem 0;
+    align-items: center;
     a {
       display: block;
       padding: 0 1em;
       border-radius: 2em;
       line-height: 2;
       color: #c6c6c6;
+      text-decoration: none;
     }
     li {
       border-bottom: solid 1px transparent;
       &.active,
       &:hover {
-        border-bottom: solid 1px orange;
+        border-bottom: solid 1px $color5;
       }
       &.logo {
         display: flex;

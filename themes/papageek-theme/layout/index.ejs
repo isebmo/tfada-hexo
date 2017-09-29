@@ -1,8 +1,8 @@
-<section>
-    <ol id="posts" class="grid-2 has-gutter">
-        <% site.posts.each(function(item){ %>
+<section class="max-width">
+    <ol id="posts">
+        <% page.posts.each(function(item){ %>
             <%- partial('_partial/article-excerpt', {item: item}) %>
         <% }); %>
-        <%- partial('_partial/pagination') %>
+        <%- partial('_partial/pagination', {type: 'page'}) %>
     </ol>
 </section>

@@ -1,22 +1,25 @@
 footer {
-  background-color: #1e1e24;
-  color: #fff;
-  padding: 2rem;
-  text-align: center;
-  form {
-    margin: 0 auto;
-    *:focus {
-      outline: none;
-    }
-    input[type="text"] {
-      border: none;
-      color: orange;
-      text-align: center;
-      background: none;
-      border-bottom: 1px solid #aaaaaa;
-      border-radius: 0;
-      &:focus {
-        border-bottom: 1px solid orange;
+  &.main-footer {
+    background-color: #1e1e24;
+    color: #c6c6c6;
+    padding: 2rem;
+    text-align: center;
+    font-size: 80%;
+    form {
+      margin: 0 auto;
+      *:focus {
+        outline: none;
+      }
+      input[type="text"] {
+        border: none;
+        color: orange;
+        text-align: center;
+        background: none;
+        border-bottom: 1px solid #aaaaaa;
+        border-radius: 0;
+        &:focus {
+          border-bottom: 1px solid orange;
+        }
       }
     }
   }
