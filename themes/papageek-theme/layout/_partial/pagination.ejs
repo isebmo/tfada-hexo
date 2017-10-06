@@ -1,7 +1,9 @@
-<% if (page.prev) { %>
-    <a href="<%- url_for(page.prev_link) %>">Nouveaux posts</a>
+<nav id="pagination">
+    <% if (page.prev) { %>
+        <a class="button" href="<%- url_for(page.prev_link) %>">Nouveaux posts</a>
 
-<% } %>
-<% if (page.next) { %>
-    <a href="<%- url_for(page.next_link) %>">Anciens posts</a>
-<% } %>
+    <% } %>
+    <% if (page.next) { %>
+        <a class="button" href="<%- url_for(page.next_link) %>">Anciens posts</a>
+    <% } %>
+</nav>

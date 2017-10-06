@@ -4,7 +4,19 @@
             <img src="/images<%= theme.logo.url %>" alt="<%= theme.logo.alt %>" height="48px" width="48px">
         </a>
         <ul class="unstyled">
-            <li class="<% if(path.indexOf('cv') > -1) { %> <%= 'active' %> <% } %>"><a href="<%- config.root + 'cv' %>">Pour les parents</a></li>
-            <li class="<% if(path.indexOf('blog') > -1) { %> <%= 'active' %> <% } %>"><a href="<%- config.root + 'blog' %>">Pour le bébé</a></li>
+
+        <% 
+        if (site.categories && site.categories.length){
+            site.categories.forEach(function(category){
+                if (!category.parent && config.categories_to_show.indexOf(category.name) > -1) {
+                    var classActive = path.indexOf(category.name) > -1 ? 'active' : '';
+                    %>
+                        <%- '<li class="' + classActive +'"><a class="'+category.name.toLowerCase()+'" href="' + config.root + category.path + '">' + category.name + '</a></li>' %>
+                    <%
+                }
+            });
+        } 
+        %>
         </ul>
 </nav>
+        

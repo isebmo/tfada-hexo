@@ -1,0 +1,10 @@
+<% if (item.categories && item.categories.length){ %>
+    <%
+        var categories = [];
+        item.categories.forEach(function(category){
+            %>
+            <%-'<li><a href="' + config.root + category.path + '">' + category.name + '</a></li>'%>
+            <%
+        });
+    %>
+<% } %>
