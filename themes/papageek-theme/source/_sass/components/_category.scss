@@ -1,3 +1,15 @@
-.test {
-    color: red;
-}
+    .Cuisine {
+        color: red;
+    }
+
+    .category-list {
+        list-style: none;
+        padding: 1rem 0 1rem 0;
+        text-align: center;
+        li {
+            display: inline-block;
+            a {
+                border: none;
+            }
+        }
+    }

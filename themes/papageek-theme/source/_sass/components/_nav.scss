@@ -12,9 +12,10 @@
     flex-wrap: wrap;
     align-items: center;
     a {
+      color: $color5;
+      border: none;
       display: block;
       padding: 0 1em;
-      border-radius: 2em;
       line-height: 2;
       text-decoration: none;
       text-transform: capitalize;

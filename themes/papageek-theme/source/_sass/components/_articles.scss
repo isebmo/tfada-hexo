@@ -1,17 +1,39 @@
 #posts {
     list-style: none;
-    padding: 0 1rem;
-    .articles-item {
+    padding: 1rem 1rem 0 1rem;
+    article {
         box-shadow: 0 1px 3px 0 rgba(0, 0, 0, .16), 0 0 0 1px rgba(0, 0, 0, .04);
         transition: box-shadow .3s ease-in-out;
+        display: flex;
         background-color: #fff;
         outline: 0;
         margin-bottom: 1rem;
         .fimg {
-            padding-top: 29%;
+            flex: 1 0 0;
+            padding-bottom: 30%;
+            width: 45%;
             @media (max-width: $small - 1) {
-                padding-top: 75%;
+                padding-bottom: 60%;
+                width: 100%;
             }
+        }
+        @media (max-width: $small - 1) {
+            flex-direction: column;
+        }
+        section {
+            flex: 1 0 0;
+            padding: 1rem;
+            text-align: center;
+            width: 55%;
+            @media (max-width: $small - 1) {
+                width: 100%;
+            }
+        }
+        h2 {
+            margin-bottom: 1rem;
+        }
+        .category-list {
+            padding: 1rem 0 3rem 0;
         }
     }
 }
@@ -19,12 +41,7 @@
 .blog-post {
     background-color: #fff;
     margin-bottom: 1rem;
-    margin-top: 1rem;
     box-shadow: 0 2px 10px 0 rgba(0, 0, 0, .12);
-    header {
-        padding: 1rem;
-        text-align: center;
-    }
     article {
         padding: 1rem;
         max-width: 700px;
@@ -35,15 +52,13 @@
 }
 
 .blog-post-title {
-    border-bottom: 1px solid $color5;
-    color: $color5;
-    a {
-        text-decoration: none;
-        color: inherit;
-    }
+    padding: 1rem;
+    text-align: center;
 }
 
 .blog-post-meta {
     color: grey;
     font-style: italic;
+    text-align: center;
+    font-size: 90%;
 }

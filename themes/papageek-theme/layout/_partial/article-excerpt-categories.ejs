@@ -1,10 +1,12 @@
 <% if (item.categories && item.categories.length){ %>
+<ul class="category-list">
     <%
         var categories = [];
         item.categories.forEach(function(category){
-            %>
-            <%-'<li><a href="' + config.root + category.path + '">' + category.name + '</a></li>'%>
-            <%
+            categories.push('<li><a class="'+category.name+'" href="' + config.root + category.path + '">' + category.name + '</a></li>')
         });
+
     %>
+<%-categories.join(' - ')%>
+</ul>
 <% } %>

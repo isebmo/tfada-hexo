@@ -5,22 +5,24 @@ footer {
     padding: 2rem;
     text-align: center;
     font-size: 80%;
-    form {
-      margin: 0 auto;
-      *:focus {
-        outline: none;
-      }
-      input[type="text"] {
-        border: none;
-        color: orange;
-        text-align: center;
-        background: none;
-        border-bottom: 1px solid #aaaaaa;
-        border-radius: 0;
-        &:focus {
-          border-bottom: 1px solid orange;
-        }
-      }
-    }
+    a {
+      color: $color5;
+    } // form {
+    //   margin: 0 auto;
+    //   *:focus {
+    //     outline: none;
+    //   }
+    //   input[type="text"] {
+    //     border: none;
+    //     color: orange;
+    //     text-align: center;
+    //     background: none;
+    //     border-bottom: 1px solid #aaaaaa;
+    //     border-radius: 0;
+    //     &:focus {
+    //       border-bottom: 1px solid orange;
+    //     }
+    //   }
+    // }
   }
 }

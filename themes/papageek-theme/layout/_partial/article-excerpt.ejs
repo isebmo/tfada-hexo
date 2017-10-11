@@ -1,21 +1,20 @@
-<li class="blog-post articles-item grid">
-    <article class="two-thirds">
-        <div class="fimg one-third" style="background-image: url(<%- item.fimg %>); background-size: cover;    background-position: center;"></div>
+<li class="articles-list">
+    <article >
+        <div class="fimg" style="background-image: url(<%- item.fimg %>); background-size: cover;    background-position: center;"></div>
         <section>
-            <h2 class="blog-post-title">
+                <h2 class="h4-like">
                 <a href="<%- config.root %><%- item.path %>">
                     <%- item.title %>
                 </a>
-            </h2>
-            <p class="blog-post-meta">
-                publié le <%= item.date.locale('fr').format(config.date_format) %>
-                    <% if(item.author) { %>
-                        par <%- item.author %>
-                    <% } %>
-            </p>
-            <ul>
+                </h2>
+                <p class="blog-post-meta">
+                    publié le <%= item.date.locale('fr').format(config.date_format) %>
+                        <% if(item.author) { %>
+                         par <%- item.author %>
+                        <% } %>
+                </p>
                 <%- partial('_partial/article-excerpt-categories', {item: item}) %>
-            </ul>
+            <a href="<%- config.root %><%- item.path %>">Lire la suite</a>
         </section>
     </article>
 </li>
