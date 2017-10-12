@@ -6,8 +6,8 @@
     "version": "3.3.1"
   },
   "scripts": {
-    "build": "gulp --gulpfile  themes/papageek-theme/gulpfile.js && hexo generate",
-    "start": "concurrently \"gulp watch --gulpfile  themes/papageek-theme/gulpfile.js\" \"hexo server\""
+    "build": "gulp --gulpfile  themes/tfada-theme/gulpfile.js && hexo generate",
+    "start": "concurrently \"gulp watch --gulpfile  themes/tfada-theme/gulpfile.js\" \"hexo server\""
   },
   "dependencies": {
     "hexo": "^3.2.0",

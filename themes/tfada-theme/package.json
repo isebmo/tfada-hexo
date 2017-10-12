@@ -1,7 +1,7 @@
 {
-  "name": "hexo-theme-papageek-top",
+  "name": "hexo-theme-tfada-top",
   "version": "1.0.0",
-  "description": "theme for papageek.top blog",
+  "description": "theme for tfada blog",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
