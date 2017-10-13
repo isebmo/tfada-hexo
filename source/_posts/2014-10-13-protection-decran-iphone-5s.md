@@ -38,7 +38,6 @@ dsq_thread_id:
   - 3112914390
 categories:
   - Geek
-  - HighTech
 tags:
   - apple
   - iphone

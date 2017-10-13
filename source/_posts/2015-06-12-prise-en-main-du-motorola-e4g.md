@@ -14,7 +14,7 @@ page_layout:
 dsq_thread_id:
   - 3842696081
 categories:
-  - HighTech
+  - Geek
 tags:
   - android
   - motorola

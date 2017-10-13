@@ -40,7 +40,6 @@ dsq_thread_id:
   - 2716644032
 categories:
   - Geek
-  - HighTech
 tags:
   - iphone
   - téléphone

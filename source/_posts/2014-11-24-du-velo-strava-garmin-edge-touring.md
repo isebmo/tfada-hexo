@@ -38,7 +38,7 @@ page_layout:
 dsq_thread_id:
   - 3379486533
 categories:
-  - HighTech
+  - Geek
   - Photo
 tags:
   - garmin

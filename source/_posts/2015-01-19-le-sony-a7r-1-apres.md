@@ -14,7 +14,7 @@ page_layout:
 dsq_thread_id:
   - 3433821592
 categories:
-  - HighTech
+  - Geek
   - Photo
 fimg: 2015/01/Sony-A7r-2-5.jpg
 tags:

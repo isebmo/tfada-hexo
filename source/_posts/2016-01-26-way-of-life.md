@@ -7,8 +7,7 @@ author: iSebmo
 #date: 2015-10-05
 fimg: 2016/01/way-of-life.jpg
 categories:
-  - Développement personnel
-  - Sport & Santé
+  - LifeHack
 ---
 
 Voici un petit article de développement personnel avec quelques conseils que j'ai voulu écrire pour m'en souvenir, et faire réagir. 

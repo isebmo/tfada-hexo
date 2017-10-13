@@ -14,7 +14,7 @@ page_layout:
 dsq_thread_id:
   - 3817422809
 categories:
-  - HighTech
+  - Geek
 tags:
   - kobo
   - liseuse

@@ -14,7 +14,7 @@ page_layout:
 dsq_thread_id:
   - 3886075447
 categories:
-  - HighTech
+  - Geek
   - Photo
 tags:
   - a7

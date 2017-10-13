@@ -41,7 +41,7 @@ dsq_thread_id:
   - 3379234239
 categories:
   - Cuisine
-  - HighTech
+  - Geek
 tags:
   - expresso
   - jura

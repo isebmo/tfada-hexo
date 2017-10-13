@@ -32,7 +32,7 @@ sf_caption_position:
 dsq_thread_id:
   - 3374339632
 categories:
-  - HighTech
+  - Geek
 tags:
   - apple
   - chrome

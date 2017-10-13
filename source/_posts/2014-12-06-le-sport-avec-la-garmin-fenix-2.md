@@ -40,7 +40,7 @@ page_layout:
 dsq_thread_id:
   - 3392861514
 categories:
-  - HighTech
+  - Geek
   - Sport
 tags:
   - garmin

@@ -45,7 +45,7 @@ background_opacity:
 page_layout:
   - fullwidth
 categories:
-  - HighTech
+  - Geek
 tags:
   - apple
   - ios

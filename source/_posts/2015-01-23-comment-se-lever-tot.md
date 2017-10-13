@@ -14,7 +14,7 @@ page_layout:
 dsq_thread_id:
   - 3434646110
 categories:
-  - Développement personnel
+  - LifeHack
 tags:
   - méthode
 fimg: 2015/01/alarm-clock-219613_1280-1024x768.jpg

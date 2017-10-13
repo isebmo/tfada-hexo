@@ -6,7 +6,7 @@ tags: hub,apple,macbook
 author: iSebmo
 date: 2016-03-08
 categories:
-  - HighTech
+  - Geek
 fimg: 2016/03/hootoo.jpg
 ---
 

@@ -39,7 +39,6 @@ dsq_thread_id:
   - 3404052541
 categories:
   - Geek
-  - HighTech
 tags:
   - neato
 fimg: 2014/11/Neato-2-1024x683.jpg

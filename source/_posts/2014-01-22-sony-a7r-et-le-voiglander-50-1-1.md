@@ -43,7 +43,7 @@ background_opacity:
 page_layout:
   - fullwidth
 categories:
-  - HighTech
+  - Geek
   - Photo
 tags:
   - a7r

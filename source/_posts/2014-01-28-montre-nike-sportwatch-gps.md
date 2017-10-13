@@ -37,7 +37,7 @@ robotsmeta:
 dsq_thread_id:
   - 2187421429
 categories:
-  - HighTech
+  - Geek
   - Sport
 tags:
   - footing

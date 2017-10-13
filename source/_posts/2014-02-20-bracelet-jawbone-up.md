@@ -41,7 +41,7 @@ background_opacity:
 page_layout:
   - fullwidth
 categories:
-  - HighTech
+  - Geek
 tags:
   - sport
 fimg: 2014/02/DSC06469.jpg

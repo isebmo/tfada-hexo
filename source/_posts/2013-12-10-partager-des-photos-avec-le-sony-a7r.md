@@ -32,7 +32,7 @@ dsq_thread_id:
 robotsmeta:
   - index,follow
 categories:
-  - HighTech
+  - Geek
   - Photo
 tags:
   - a7

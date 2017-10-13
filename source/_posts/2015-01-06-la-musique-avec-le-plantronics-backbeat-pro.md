@@ -14,7 +14,7 @@ page_layout:
 dsq_thread_id:
   - 3393107764
 categories:
-  - HighTech
+  - Geek
   - Musique
 tags:
   - bluetooth

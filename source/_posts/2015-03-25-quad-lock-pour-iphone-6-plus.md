@@ -14,7 +14,7 @@ page_layout:
 dsq_thread_id:
   - 3625151029
 categories:
-  - HighTech
+  - Geek
 tags:
   - apple
   - footing

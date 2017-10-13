@@ -43,7 +43,7 @@ background_opacity:
 page_layout:
   - fullwidth
 categories:
-  - HighTech
+  - Geek
 tags:
   - tablette
 fimg: 2014/10/DSC07395.jpg

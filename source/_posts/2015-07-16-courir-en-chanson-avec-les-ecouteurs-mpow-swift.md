@@ -14,7 +14,7 @@ page_layout:
 dsq_thread_id:
   - 3938942437
 categories:
-  - HighTech
+  - Geek
   - Musique
   - Sport
 tags:
