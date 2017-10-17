@@ -42,7 +42,7 @@ categories:
 tags:
   - apple
   - sport
-fimg: 2014/06/DSC07270-1-1024x683.jpg
+fimg: https://s3.eu-central-1.amazonaws.com/tfada/DSC07270-1-1024x683.jpg
 ---
 <p class="p1">
   Dans la série quad lock je vous présente la fixation pour vélo. Suivra ensuite Le test de la fixation pour moto, voiture et running.
@@ -57,7 +57,7 @@ fimg: 2014/06/DSC07270-1-1024x683.jpg
 </p>
 
 <p class="p1">
-  <a href="{{ site.baseurl }}/images/2014/06/DSC07270-1.jpg"><img class="alignleft size-large wp-image-335" src="{{ site.baseurl }}/images/2014/06/DSC07270-1-1024x683.jpg" alt="DSC07270 (1)" width="940" height="626" /></a>
+  <a href="https://s3.eu-central-1.amazonaws.com/tfada/DSC07270-1.jpg"><img class="alignleft size-large wp-image-335" src="https://s3.eu-central-1.amazonaws.com/tfada/DSC07270-1-1024x683.jpg" alt="DSC07270 (1)" width="940" height="626" /></a>
 </p>
 
 <p class="p1">
@@ -65,7 +65,7 @@ fimg: 2014/06/DSC07270-1-1024x683.jpg
 </p>
 
 <p class="p1">
-  <a href="{{ site.baseurl }}/images/2014/06/DSC07269-1.jpg"><img class="alignleft size-large wp-image-334" src="{{ site.baseurl }}/images/2014/06/DSC07269-1-1024x683.jpg" alt="DSC07269 (1)" width="940" height="626" /></a>
+  <a href="https://s3.eu-central-1.amazonaws.com/tfada/DSC07269-1.jpg"><img class="alignleft size-large wp-image-334" src="https://s3.eu-central-1.amazonaws.com/tfada/DSC07269-1-1024x683.jpg" alt="DSC07269 (1)" width="940" height="626" /></a>
 </p>
 
 <p class="p1">
@@ -73,7 +73,7 @@ fimg: 2014/06/DSC07270-1-1024x683.jpg
 </p>
 
 <p class="p1">
-  <a href="{{ site.baseurl }}/images/2014/06/DSC07273-1.jpg"><img class="aligncenter wp-image-336 size-large" src="{{ site.baseurl }}/images/2014/06/DSC07273-1-683x1024.jpg" alt="DSC07273 (1)" width="683" height="1024" /></a>
+  <a href="https://s3.eu-central-1.amazonaws.com/tfada/DSC07273-1.jpg"><img class="aligncenter wp-image-336 size-large" src="https://s3.eu-central-1.amazonaws.com/tfada/DSC07273-1-683x1024.jpg" alt="DSC07273 (1)" width="683" height="1024" /></a>
 </p>
 
 <p class="p1">

@@ -5,7 +5,7 @@ description: Si vous voulez faire du sport sans aller en salle, si vous posséde
 tags: sport,crossfit,lafay,freeletics
 author: iSebmo
 #date: 2015-10-05
-fimg: 2015/10/freeletics.jpg
+fimg: https://s3.eu-central-1.amazonaws.com/tfada/freeletics.jpg
 categories: Sport & Santé
 ---
 

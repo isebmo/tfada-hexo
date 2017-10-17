@@ -5,7 +5,7 @@ description: Trop souvent nous regrettons de ne pas faire telle ou telle chose, 
 tags: vie
 author: iSebmo
 #date: 2015-10-05
-fimg: 2016/01/way-of-life.jpg
+fimg: https://s3.eu-central-1.amazonaws.com/tfada/way-of-life.jpg
 categories:
   - LifeHack
 ---
@@ -20,7 +20,7 @@ Voici un petit article de développement personnel avec quelques conseils que j'
 
 * Planifier ce que vous voulez faire un jour, demain, dans un mois ? Vous avez plein de logiciels pour vous organiser [TODOIST](https://geo.itunes.apple.com/fr/app/todoist-liste-des-taches-to/id572688855?mt=8&at=1l3vs3Y), [Trello](https://geo.itunes.apple.com/fr/app/trello/id461504587?mt=8&at=1l3vs3Y) par exemple. 
 
- ![méditer](/images/2016/01/mediter.jpg)
+ ![méditer](/https://s3.eu-central-1.amazonaws.com/tfada/mediter.jpg)
 
 * Éteignez la télé et lisez un bouquin ou un [livre numérique](pouvoir). 
 

@@ -15,7 +15,7 @@ dsq_thread_id:
   - 3526054720
 categories:
   - Geek
-fimg: 2015/02/freemobile1.png
+fimg: https://s3.eu-central-1.amazonaws.com/tfada/freemobile1.png
 ---
 > J’ai Free j’ai rien compris.
 

@@ -16,7 +16,7 @@ dsq_thread_id:
 categories:
   - Cuisine
   - Geek
-fimg: 2015/05/specialT2.jpg
+fimg: https://s3.eu-central-1.amazonaws.com/tfada/specialT2.jpg
 ---
 Une machine à *thé*, oui pourquoi pas, mais une machine à **capsules**, pour quoi faire ?
 
@@ -24,7 +24,7 @@ Les thés en sachet c’est bien au boulot et encore… Disons que ça **dépann
 Si vous voulez boire un bon thé sans vous prendre la tête, direction le [palais des thés][1] et une [bonne vieille théière][2] et l’affaire est dans le sac.
 
 <div id="attachment_798" style="width: 677px" class="wp-caption aligncenter">
-  <a href="{{ site.baseurl }}/images/2015/05/specialT4.jpg"><img class="size-full wp-image-798" src="{{ site.baseurl }}/images/2015/05/specialT4.jpg" alt="Théière automatique" width="667" height="1000" /></a>
+  <a href="https://s3.eu-central-1.amazonaws.com/tfada/specialT4.jpg"><img class="size-full wp-image-798" src="https://s3.eu-central-1.amazonaws.com/tfada/specialT4.jpg" alt="Théière automatique" width="667" height="1000" /></a>
   
   <p class="wp-caption-text">
     Théière automatique
@@ -35,7 +35,7 @@ Mais si vous voulez un peu plus de *confort*, genre le thé est immédiatement p
 Alors certes je suis complètement fou de ma [cafetière Jura][4] qui fait **tout** toute seule à 800€, mais au moins je n’ai pas à la nettoyer. Avec la Riviera il faut enlever le thé et nettoyer la cafetière, seuls la température et le temps d’infusion sont automatiques (c’est déjà ça me direz vous, mais ce n’est pas suffisant pour moi au vu du prix).
 
 <div id="attachment_795" style="width: 677px" class="wp-caption aligncenter">
-  <a href="{{ site.baseurl }}/images/2015/05/specialT1.jpg"><img class="size-full wp-image-795" src="{{ site.baseurl }}/images/2015/05/specialT1.jpg" alt="Théière automatique" width="667" height="1000" /></a>
+  <a href="https://s3.eu-central-1.amazonaws.com/tfada/specialT1.jpg"><img class="size-full wp-image-795" src="https://s3.eu-central-1.amazonaws.com/tfada/specialT1.jpg" alt="Théière automatique" width="667" height="1000" /></a>
   
   <p class="wp-caption-text">
     Théière automatique
@@ -55,7 +55,7 @@ Je pense que c’est le *point faible de la machine*, mais rien n’empêche de 
 Il existe une trentaine de thés. Le choix est relativement **restreint** je suis un peu déçu de ce côté-là. Allez au magasin du palais des thés et vous comprendrez de quoi je parle. Les éditions spéciales ne se renouvellent que très peu c’est dommage, un roulement plus important aurait été parfait.
 
 <div id="attachment_797" style="width: 677px" class="wp-caption aligncenter">
-  <a href="{{ site.baseurl }}/images/2015/05/specialT3.jpg"><img class="size-full wp-image-797" src="{{ site.baseurl }}/images/2015/05/specialT3.jpg" alt="Théière automatique" width="667" height="1000" /></a>
+  <a href="https://s3.eu-central-1.amazonaws.com/tfada/specialT3.jpg"><img class="size-full wp-image-797" src="https://s3.eu-central-1.amazonaws.com/tfada/specialT3.jpg" alt="Théière automatique" width="667" height="1000" /></a>
   
   <p class="wp-caption-text">
     Théière automatique

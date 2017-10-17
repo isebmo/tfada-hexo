@@ -43,7 +43,7 @@ categories:
 tags:
   - apple
   - mavericks
-fimg: 2014/01/Capture-d’écran-2014-01-29-à-11.37.25.png
+fimg: https://s3.eu-central-1.amazonaws.com/tfada/Capture-d’écran-2014-01-29-à-11.37.25.png
 ---
 <span style="line-height: 1.5em;">Vous voulez partager vos photos et vos films de vacances avec vos amis, mais ils vous ont donné un disque dur formaté en NTFS ? C&rsquo;est dommage, passé les remarques « il est nul ton Mac, même mon netbook à 100€ peut le faire », alors vous vous empressez de regarder sur internet quelle est la procédure. Et c&rsquo;est là que vous tombez sur cet article <img src="http://localhost/wp-includes/images/smilies/simple-smile.png" alt=":-)" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span>  
 Commencez par télécharger les utilitaires suivants, je mets les liens, mais libre à vous d&rsquo;aller les chercher sur leur site officiel respectif.
@@ -53,11 +53,11 @@ Commencez par télécharger les utilitaires suivants, je mets les liens, mais li
 
 Installer Macfuse en premier en prenant soin de cocher la case « MacFUSE Compatibility Layer »
 
-[<img class="alignleft size-large wp-image-224" alt="Capture d’écran 2014-01-29 à 11.37.25" src="{{ site.baseurl }}/images/2014/01/Capture-d’écran-2014-01-29-à-11.37.25-1024x716.png" width="940" height="657" />][3]  
+[<img class="alignleft size-large wp-image-224" alt="Capture d’écran 2014-01-29 à 11.37.25" src="https://s3.eu-central-1.amazonaws.com/tfada/Capture-d’écran-2014-01-29-à-11.37.25-1024x716.png" width="940" height="657" />][3]  
 Puis installer Ntfs-3g  
 Redémarrer votre ordinateur (à la mode Windows)  
 Partagez !
 
  [1]: www.localhost/upload/osxfuse-2.6.2.dmg
  [2]: www.localhost/upload/ntfs-3g-2010.10.2-macosx.dmg
- [3]: {{ site.baseurl }}/images/2014/01/Capture-d’écran-2014-01-29-à-11.37.25.png
+ [3]: https://s3.eu-central-1.amazonaws.com/tfada/Capture-d’écran-2014-01-29-à-11.37.25.png

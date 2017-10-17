@@ -49,17 +49,17 @@ categories:
 tags:
   - sport
   - vélo
-fimg: 2014/10/DSC07419.jpg
+fimg: https://s3.eu-central-1.amazonaws.com/tfada/DSC07419.jpg
 ---
 Pour celles et ceux qui cherchent de quoi rester visible la nuit à vélo je leur conseille ces éclairages [avant][1] et [arrière][2] de la marque [cateye][3]. Ces produits sont très bien finis. Contrairement à d’autres systèmes ils possèdent des [piles AAA ][4]bien plus faciles à trouver dans le commerce que des [petites piles][5].
 
 Il existe un modèle à [3 LED][1] et un à 5, si vous faites du vélo seulement en ville, le 3 vous suffira sinon investissez dans le [modèle à 5 LED.][6]
 
-[<img class="aligncenter size-full wp-image-429" src="{{ site.baseurl }}/images/2014/10/DSC07419.jpg" alt="DSC07419" width="2048" height="3069" />][7]
+[<img class="aligncenter size-full wp-image-429" src="https://s3.eu-central-1.amazonaws.com/tfada/DSC07419.jpg" alt="DSC07419" width="2048" height="3069" />][7]
 
 Vous pouvez les fixez sur la tige de selle, la potence ou bien utiliser la pince vendue avec que vous pouvez **accrocher sur vos vêtements**. Les supports et lampes sont deux systèmes séparés donc vous pouvez enlever l’éclairage rapidement quand vous n’en avez pas l’utilité.
 
-[<img class="aligncenter size-full wp-image-427" src="{{ site.baseurl }}/images/2014/10/DSC07423.jpg" alt="DSC07423" width="2048" height="1367" />][8]
+[<img class="aligncenter size-full wp-image-427" src="https://s3.eu-central-1.amazonaws.com/tfada/DSC07423.jpg" alt="DSC07423" width="2048" height="1367" />][8]
 
 **Les plus**  
 * le prix  
@@ -70,7 +70,7 @@ Vous pouvez les fixez sur la tige de selle, la potence ou bien utiliser la pince
 * fixation guidoline difficile sur diamètre 30.1mm  
 * 3 LED seulement pour la ville
 
-[<img class="aligncenter size-full wp-image-426" src="{{ site.baseurl }}/images/2014/10/DSC07424.jpg" alt="DSC07424" width="2048" height="1367" />][9]
+[<img class="aligncenter size-full wp-image-426" src="https://s3.eu-central-1.amazonaws.com/tfada/DSC07424.jpg" alt="DSC07424" width="2048" height="1367" />][9]
 
 Roulez jeunesse !
 
@@ -80,6 +80,6 @@ Roulez jeunesse !
  [4]: http://www.amazon.fr/gp/product/B004KRGJFO/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B004KRGJFO&linkCode=as2&tag=tfadafr-21&linkId=JBWWIAJT6IAV75RY
  [5]: http://www.amazon.fr/gp/product/B006CPCDBQ/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B006CPCDBQ&linkCode=as2&tag=tfadafr-21&linkId=HPJT3EA57RATWTMD
  [6]: http://www.amazon.fr/gp/product/B0099M8AVG/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B0099M8AVG&linkCode=as2&tag=tfadafr-21&linkId=XCVD7XIP7SFQBKZC
- [7]: {{ site.baseurl }}/images/2014/10/DSC07419.jpg
- [8]: {{ site.baseurl }}/images/2014/10/DSC07423.jpg
- [9]: {{ site.baseurl }}/images/2014/10/DSC07424.jpg
+ [7]: https://s3.eu-central-1.amazonaws.com/tfada/DSC07419.jpg
+ [8]: https://s3.eu-central-1.amazonaws.com/tfada/DSC07423.jpg
+ [9]: https://s3.eu-central-1.amazonaws.com/tfada/DSC07424.jpg

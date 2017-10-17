@@ -7,7 +7,7 @@ author: iSebmo
 # date: 2016-03-05
 categories:
   - Geek
-fimg: 2016/03/instapaper.jpg
+fimg: https://s3.eu-central-1.amazonaws.com/tfada/instapaper.jpg
 ---
 
 Pocket cherche à mettre de la pub dans leur service de lecture différée afin de pousser les utilisateurs freemium à prendre un abonnement. Je n’ai rien contre les services payants, il faut bien payer les serveurs et faire *manger* les développeurs, mais le service payant à 5€ par mois pour *si peu de service *ça me fait mal. 

@@ -45,13 +45,13 @@ tags:
   - photo
   - sony
 format: link
-fimg: 2014/11/smugmug-1024x512.png
+fimg: https://s3.eu-central-1.amazonaws.com/tfada/smugmug-1024x512.png
 ---
 [Smugsmug][1] est un service de *partage* de photos à la manière de [Flickr][2] mais qui a du mal à trouver son publique notamment en France. Le service n’étant pas traduit en français pour le moment je ne vois que ça comme explication à ce désamour.
 
 Je suis adepte du service [Flickr][2] qui donne la possibilité de partager ses photos souvent de qualité avec d’autres utilisateurs et avoir des avis rapides dessus. Mais le point *noir* de ce dernier service c’est qu’il est difficile de récupérer *l’ensemble* de ses photos d’un seul coup. Il reste cependant la meilleure manière pour un amateur de *partager* ses meilleurs clichés avec d’autres *férus* de photographie.
 
-[<img class="aligncenter size-large wp-image-540" src="{{ site.baseurl }}/images/2014/11/smugmug-1024x512.png" alt="smugmug" width="940" height="470" />][3]
+[<img class="aligncenter size-large wp-image-540" src="https://s3.eu-central-1.amazonaws.com/tfada/smugmug-1024x512.png" alt="smugmug" width="940" height="470" />][3]
 
 # L’illimité limité
 
@@ -65,6 +65,6 @@ Si vous cherchez un site de partage et surtout de backup (et oui personne n’es
 
  [1]: http://smugmug.com
  [2]: https://www.flickr.com/photos/isebmo/
- [3]: {{ site.baseurl }}/images/2014/11/smugmug.png
+ [3]: https://s3.eu-central-1.amazonaws.com/tfada/smugmug.png
  [4]: http://localhost/2013/11/le-petit-sony-a7r/
  [5]: https://itunes.apple.com/fr/app/smugmug/id364894061?mt=8

@@ -7,7 +7,7 @@ categories:
   - Cuisine
 tags:
   - cuisine
-fimg: http://tfada.fr/images/2015/05/specialT2.jpg
+fimg: https://s3.eu-central-1.amazonaws.com/tfada/specialT2.jpg
 ---
 Voici deux bons de réduction d’une valeur de 10€ chacun. A utiliser avant le 7 avril 2016 pour l’achat d’une théière Mini-T.
 
