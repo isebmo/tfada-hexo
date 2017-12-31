@@ -19,7 +19,7 @@ Si vous possédez le dernier [MacBook](http://tfada.fr/MacBook.html), vous devez
 
 La finition est très bonne, il est en **aluminium brossé**. Vous n’avez pas le choix de la couleur comme pour d’autres accessoires. Donc si vous avez un [MacBook](http://tfada.fr/MacBook.html) couleur Or il faudra faire avec le hub couleur aluminium…
 
-![hootoo](/https://s3.eu-central-1.amazonaws.com/tfada/hootoo-2.jpg "Hub Hootoo")
+![hootoo](https://s3.eu-central-1.amazonaws.com/tfada/hootoo-2.jpg "Hub Hootoo")
 
 Pour les Geek, le fabricant a cru bon de mettre le logo sous forme de LED. De fait, dès qu’il est branché le logo **brille**, et ce même si l’ordinateur est éteint… Il ne passera donc pas inaperçu.
 La longueur du câble USB-C est petite, environ 10cm, il est de fait parfaitement **compact et adapté au transport**. Il est un poil plus épais que l’ordinateur, [HooToo](http://www.amazon.fr/HooToo-Shuttle-G%C3%A9n%C3%A9ration-dAluminium-Fourniture/dp/B01AFW52MS/ref=sr_1_5?ie=UTF8&qid=1457170643&sr=8-5&keywords=hootoo&tag=tfadafr-21) ce n’est pas Apple niveau ingénierie… Pour la longueur, comptez la largeur de votre trackpad.
