@@ -2,16 +2,18 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <meta name="description" content="<%- config.description %>">
+    <meta name="description" content="<%- page.description ? page.description : config.description %>">
     <link rel="canonical" href="<%- url %>" />
     <link rel="alternate" hreflang="<%- config.language %>" href="<%- config.url %>" />
     <%- css('css/styles') %>
 
-    <title><%- config.title %></title>
-    <% if (theme.rss) { %>
-        <link rel="alternate" href="<%- theme.rss %>" title="<%= config.title %>" type="application/atom+xml">
-    <% } %>
-    <% if (theme.favicon){ %>
-        <link rel="icon" href="<%- theme.favicon %>">
-    <% } %>
+        <title>
+            <%- page.title ? config.title + ' : ' + page.title : config.title %>
+        </title>
+        <% if (theme.rss) { %>
+            <link rel="alternate" href="<%- theme.rss %>" title="<%= config.title %>" type="application/atom+xml">
+        <% } %>
+        <% if (theme.favicon){ %>
+            <link rel="icon" href="<%- theme.favicon %>">
+        <% } %> 
 </head>
